@@ -1,5 +1,12 @@
-package br.com.bb;
+package br.com.bb.modelos;
 
+// abaixo comentários javadoc
+
+/**
+ * Classe que representa um cliente do BB
+ * @author Víctor Teixeira
+ * @version 1.0
+ */
 
 public class Cliente {
 

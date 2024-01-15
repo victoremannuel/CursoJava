@@ -1,4 +1,4 @@
-package br.com.bb;
+package br.com.bb.modelos;
 
 public class SeguroDeVida implements Tributavel {
 
